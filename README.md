@@ -1,6 +1,6 @@
 # 🌟 Terminal Portfolio
 
-![Terminal Portfolio Preview](https://via.placeholder.com/800x400.png?text=Terminal+Portfolio) <!-- Replace with an actual project screenshot -->
+<!-![Cap2025-06-09_19-39-08](https://github.com/user-attachments/assets/9f06847e-100a-4d46-afae-760a8137820f)
 
 Welcome to **Terminal Portfolio**! 🚀 This is an interactive portfolio designed as a command-line terminal, allowing you to explore my projects, skills, and contact details in a unique and engaging way. Inspired by Linux terminal environments, this project offers an immersive experience for both technical and non-technical users.
 
@@ -114,11 +114,21 @@ terminal-portfolio/
 
 ## 🖼️ Screenshots
 
-| Terminal Interface | Projects Section |
-|--------------------|------------------|
-| ![Terminal](https://via.placeholder.com/400x300.png?text=Terminal) | ![Projects](https://via.placeholder.com/400x300.png?text=Projects) |
+![Cap2025-06-09_19-32-39](https://github.com/user-attachments/assets/42a63bdc-44f6-4d12-9a82-20abe12653ab)
+![Cap2025-06-09_19-34-11](https://github.com/user-attachments/assets/32d423e4-8f15-4173-a5dc-1fc321f93def)
+![Cap2025-06-09_19-35-52](https://github.com/user-attachments/assets/e87cce9f-c3e0-4839-8e1f-95e2a45496bb)
+![Cap2025-06-09_19-34-25](https://github.com/user-attachments/assets/99dd9024-4304-46ba-a7f1-f098deaef760)
+![Cap2025-06-09_19-34-54](https://github.com/user-attachments/assets/10b1cf09-82ce-4ce4-8587-52c5c2fd4382)
+![Cap2025-06-09_19-34-01](https://github.com/user-attachments/assets/98b6f970-da4a-4239-a89f-77b74eadfd8a)
+![Cap2025-06-09_19-36-28](https://github.com/user-attachments/assets/ac2528c7-5b8b-45cb-b1f9-e8d3a15b3924)
+![Cap2025-06-09_19-34-01](https://github.com/user-attachments/assets/eb5d6fbc-85e2-42c7-8664-73b37bdc32cb)
 
-> **Note**: Replace placeholder images with actual project screenshots.
+
+
+
+
+
+
 
 ## 🤝 Contributing
 
