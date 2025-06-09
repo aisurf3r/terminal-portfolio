@@ -28,7 +28,7 @@ The project is designed to be **visually appealing**, **accessible**, and **resp
 - **Terminal Interface**: Navigate using commands like `help`, `projects`, `skills`, `whoami`, `contact`, `theme [name]`, `clear`, `logout`, and more. 🖥️
 - **Project Portfolio**: Displays projects with images, descriptions, technologies used, and links to GitHub and live demos. 📂
 - **Skills Section**: Lists technical skills in a clear format. 📚
-- **Contact Form**: Send messages with CAPTCHA verification for added security. 📧
+- **Contact Form**: Send messages with  custom CAPTCHA verification for added security. 📧
 - **Customizable Themes**: Switch between themes (`matrix`, `amber`, `blue`, `white`) using the `theme [name]` command. 🌈
 - **Autocompletion and Navigation**: Use the `Tab` key for command autocompletion and `↑/↓` arrows to navigate command history. ⌨️
 - **Mobile Support**: Includes a virtual keyboard for mobile devices. 📱
