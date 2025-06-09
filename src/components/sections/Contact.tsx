@@ -74,15 +74,15 @@ export const Contact: React.FC = () => {
 
     try {
       await emailjs.send(
-        'service_q9pf6x8', // Service ID
-        'template_9r5105t', // Template ID
+        'ENTER SERVICE ID', // Service ID
+        'ENTER TEMPLATE ID', // Template ID
         {
           name: formData.name,
           email: formData.email,
           subject: formData.subject,
           message: formData.message
         },
-        'i3C4pzLyafB6Bzlhb' // Public Key
+        'ENTER PUBLIC KEY' // Public Key
       );
 
       setIsSending(false);
