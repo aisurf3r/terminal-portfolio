@@ -22,7 +22,7 @@ export const LoadingScreen: React.FC = () => {
         const newProgress = prev + Math.random() * 15 + 5;
         return Math.min(newProgress, 100);
       });
-    }, 250);
+    }, 300);
 
     return () => clearInterval(interval);
   }, []);
