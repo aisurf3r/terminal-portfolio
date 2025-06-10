@@ -2,7 +2,7 @@
 
 ![Cap2025-06-09_19-39-08](https://github.com/user-attachments/assets/9f06847e-100a-4d46-afae-760a8137820f)
 
-Welcome to **Terminal Portfolio**! 🚀 This is an interactive portfolio designed as a command-line terminal, allowing you to explore my projects, skills, and contact details in a unique and engaging way. Inspired by Linux terminal environments, this project offers an immersive experience for both technical and non-technical users.
+Welcome to **Terminal Portfolio**! 🚀 This is an interactive portfolio designed as a command-line terminal, allowing to explore projects, skills, and contact details in a unique and engaging way. Inspired by Linux terminal environments, this project offers an immersive experience for both technical and non-technical users.
 
 ## 📖 Description
 
@@ -124,7 +124,7 @@ terminal-portfolio/
 ![Cap2025-06-09_19-34-01](https://github.com/user-attachments/assets/eb5d6fbc-85e2-42c7-8664-73b37bdc32cb)
 
 
-
+Make the desire changes to the text to adapt your info and VOILA!
 
 
 
