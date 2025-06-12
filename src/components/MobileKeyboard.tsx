@@ -38,7 +38,7 @@ export const MobileKeyboard: React.FC<MobileKeyboardProps> = ({
   }
 
   return (
-    <div className="fixed inset-x-0 bottom-0 bg-terminal-header border-t border-terminal-border p-4 z-[1000] md:hidden">
+    <div className="fixed inset-x-0 bottom-0 bg-terminal-header border-t border-terminal-border p-4 z-50 md:hidden">
       <div className="flex items-center justify-between mb-4">
         <h3 className="text-terminal-accent font-bold">Virtual Keyboard</h3>
         <button
@@ -54,24 +54,16 @@ export const MobileKeyboard: React.FC<MobileKeyboardProps> = ({
       <div className="mb-4">
         <div className="text-terminal-muted text-sm mb-2">Quick Commands:</div>
         <div className="grid grid-cols-2 gap-2">
-  {commonCommands.map((command) => (
-    <button
-      key={command}
-      onClick={() => {
-        onKeyPress(command);
-        const inputElement = document.querySelector('.terminal-input input') as HTMLInputElement;
-        if (inputElement) {
-          inputElement.value = command;
-          const submitEvent = new Event('submit', { bubbles: true });
-          inputElement.form?.dispatchEvent(submitEvent);
-        }
-      }}
-      className="bg-terminal-hover text-terminal-text p-2 rounded text-sm font-mono border border-terminal-border hover:border-terminal-accent transition-colors"
-    >
-      {command}
-    </button>
-  ))}
-</div>
+          {commonCommands.map((command) => (
+            <button
+              key={command}
+              onClick={() => onKeyPress(command)}
+              className="bg-terminal-hover text-terminal-text p-2 rounded text-sm font-mono border border-terminal-border hover:border-terminal-accent transition-colors"
+            >
+              {command}
+            </button>
+          ))}
+        </div>
       </div>
 
       {/* Control Keys */}
