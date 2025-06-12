@@ -132,7 +132,6 @@ button.bg-terminal-accent.text-terminal-bg {
   51%, 100% { opacity: 0; }
 }
 
-
 @keyframes typing {
   from { width: 0; }
   to { width: 100%; }
@@ -342,8 +341,8 @@ select:focus {
 /* Reduced motion support */
 @media (prefers-reduced-motion: reduce) {
   *,
-  *::before,
-  *::after {
+*::before,
+*::after {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
@@ -383,7 +382,6 @@ select:focus {
     padding: 0;
     overflow: hidden;
   }
-}
   
   .terminal-output {
     min-height: calc(100vh - 120px);
