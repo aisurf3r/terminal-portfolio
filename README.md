@@ -121,14 +121,10 @@ terminal-portfolio/
 ![Cap2025-06-09_19-34-54](https://github.com/user-attachments/assets/10b1cf09-82ce-4ce4-8587-52c5c2fd4382)
 ![Cap2025-06-09_19-34-01](https://github.com/user-attachments/assets/98b6f970-da4a-4239-a89f-77b74eadfd8a)
 ![Cap2025-06-09_19-36-28](https://github.com/user-attachments/assets/ac2528c7-5b8b-45cb-b1f9-e8d3a15b3924)
-![Cap2025-06-09_19-34-01](https://github.com/user-attachments/assets/eb5d6fbc-85e2-42c7-8664-73b37bdc32cb)
-
 
 Make the desire changes to the text to adapt your info and VOILA!
 
-
-
-
+TODO: Fix mobile vertical view
 
 ## 🤝 Contributing
 
