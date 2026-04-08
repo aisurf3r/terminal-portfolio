@@ -137,12 +137,6 @@ Contributions are welcome! 🙌 To contribute to the project, follow these steps
 
 Please ensure you follow the style guidelines and test your changes before submitting.
 
-## 📧 Contact
-
-- **Email**: hello@portfolio.dev 📩
-- **GitHub**: [github.com/your-username](https://github.com/your-username) 😺
-- **LinkedIn**: [linkedin.com/in/your-username](https://linkedin.com/in/your-username) 💼
-
 If you have questions or want to collaborate, use the contact form in the app (`contact`) or send an email directly.
 
 ## 📜 License
